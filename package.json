@@ -36,10 +36,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Shopify/node-themekit.git"
+    "url": "git://github.com/unrealsmart/node-themekit.git"
   },
-  "homepage": "https://github.com/Shopify/node-themekit",
+  "homepage": "https://github.com/unrealsmart/node-themekit",
   "bugs": {
-    "url": "https://github.com/Shopify/node-themekit/issues"
+    "url": "https://github.com/unrealsmart/node-themekit/issues"
   }
 }
